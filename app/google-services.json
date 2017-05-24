@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "246573661463",
+    "firebase_url": "https://tokentimer.firebaseio.com",
+    "project_id": "tokentimer",
+    "storage_bucket": "tokentimer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246573661463:android:036e7dcebdccb762",
+        "android_client_info": {
+          "package_name": "com.example.tokentimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246573661463-9ukog5fbl3oqo70rj4pps3n6q0fis57o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQW8LFs7i_cFqk_2eTrm502-DxMHyw5sI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
